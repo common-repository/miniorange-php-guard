@@ -1,0 +1,19 @@
+.mo_table_layout {
+ background-color:#FFFFFF;
+ border:1px solid #CCCCCC;
+ padding:0px 10px 10px 10px;
+ margin-bottom: 10px;
+}
+
+.mo_settings_table {
+	width: 100%;
+}
+.mo_settings_table tr td:first-child {
+	width: 30%;
+}
+.mo_support_layout {
+    width: 93%;
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    padding: 0px 24px 0px 20px;
+}
